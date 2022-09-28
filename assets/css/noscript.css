@@ -10,7 +10,7 @@
 		opacity: 1;
 	}
 
-	.submenu-list > li > a {
-		font-size: large;
-		color: black;
+	.my-project-header {
+		font-size: x-large;
+		color: #3fb1a3;
 	}
