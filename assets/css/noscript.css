@@ -10,6 +10,7 @@
 		opacity: 1;
 	}
 
-	.submenu2 {
-		font-size: large;;
+	.submenu2 > li {
+		font-size: large;
+		color: black;
 	}
